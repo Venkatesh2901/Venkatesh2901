@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Venkatesh Mundra</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align ="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/780/201/HD-wallpaper-motivation-coding-i-can-do-it-programing.jpg">
+<img align ="right" alt="Coding" width="250" height="250" src="https://w0.peakpx.com/wallpaper/780/201/HD-wallpaper-motivation-coding-i-can-do-it-programing.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh2901&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh2901" /> </p>
 
