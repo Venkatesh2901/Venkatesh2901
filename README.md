@@ -1,17 +1,18 @@
- <h1 align="center">Hi 👋, I'm Venkatesh Mundra</h1>
+<h1 align="center">Hi 👋, I'm Venkatesh Mundra</h1>
 <h3 align="center">A passionate Coder from India</h3>
+
+<img align ="right" alt="Coding" width="250" height="250" src="https://w0.peakpx.com/wallpaper/780/201/HD-wallpaper-motivation-coding-i-can-do-it-programing.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh2901&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh2901" /> </p>
 
 - 📫 How to reach me **venkateshmundra2901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/venkatesh-mundra-428b1b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatesh-mundra-428b1b229" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/venkateshmundra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="venkateshmundra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/venkateshmundr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venkateshmundr" height="30" width="40" /></a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
