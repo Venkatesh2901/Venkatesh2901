@@ -3,7 +3,7 @@
 ### About Me:
 - 👋 Hi, I'm Venkatesh Mundra, a passionate coder from India.
 - 👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.
-- 🛠️ Frontend developer actively looking for internships.
+- 🛠️ MERN Stack developer actively looking for internships.
 - 🧭 Currently learning Data Structures and Algorithms in C++.
 - 📫 How to reach me: [venkateshmundra2901@gmail.com](mailto:venkateshmundra2901@gmail.com)
 
