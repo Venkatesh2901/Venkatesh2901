@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="250" height="250" src="https://w0.peakpx.com/wallpaper/780/201/HD-wallpaper-motivation-coding-i-can-do-it-programing.jpg">
-
 ### About Me:
 - 👋 Hi, I'm Venkatesh Mundra, a passionate coder from India.
 - 👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.
