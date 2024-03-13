@@ -1,5 +1,5 @@
 ### About Me:
-- 👋 Hi, I'm Venkatesh Mundra, a passionate coder from India.
+- 👋 Hi, I'm Venkatesh Mundra, a Passionate Coder from India.
 - 👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.
 - 🛠️ MERN Stack developer actively looking for internships.
 - 🧭 Currently learning Data Structures and Algorithms in C++.
